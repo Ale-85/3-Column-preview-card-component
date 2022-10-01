@@ -33,6 +33,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - @Ale-85 (https://www.frontendmentor.io/profile/Ale-85)
 
 
